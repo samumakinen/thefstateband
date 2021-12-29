@@ -1,0 +1,19 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+/* TEAM */
+
+	Designer/Developer: Samu Mäkinen
+	https://github.com/samumakinen
+
+/* THANKS */
+
+	Designer/Developer: Jordan Bowman
+	https://www.papayatemplates.com
+	@jrdnbwmn
+	desk@jrdnbwmn.com
+
+/* SITE */
+	Last update: 2021/12/29
+	Language: Finnish
+	Doctype:HTML5
